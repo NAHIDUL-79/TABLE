@@ -1,6 +1,4 @@
 # TABLE
-
-<!--
 #----------------------------------------------INFO-----------------------------------------------------#
 #ADMIN       : MD.NILOY ISLAM
 #TEAM NAME   : TIN-TEAM-INFINITY-NILOY
@@ -10,7 +8,6 @@
 #MY GITHUB   : https://github.com/NILOY-79
 HELLO MY CHILD THIS IS MY TOOL IF YOU THINK YOU CAN STILL MY CODE.REMAMBER THIS >(I AM YOUR DAD)
 #----------------------------------------------EXIT-----------------------------------------------------#
--->
 👋 Hi, I’m MD.NAHIDUL ISLAM ....
 👀 I’m interested in ...
 🌱 I’m currently learning ...
